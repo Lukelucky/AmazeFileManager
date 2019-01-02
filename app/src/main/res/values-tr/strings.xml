@@ -48,7 +48,7 @@
   <string name="fileexist">Aynı ad ile dosya zaten var</string>
     <string name="name">Ad:</string>
   <string name="date">Tarih:</string>
-  <string name="location">Bulunan:</string>
+  <string name="location">Lokasyon:</string>
   <string name="size_capitalized">Boyut</string>
   <string name="size">klasör boyutu</string>
     <string name="enterzipname">Zip adını gir</string>
